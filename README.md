@@ -1,7 +1,6 @@
 # AIML_2_SpamClassifier_byte
-
 ## Project Overview
-An NLP classification pipeline built to distinguish between legitimate messages (ham) and spam using TF-IDF feature extraction and a Multinomial Naive Bayes classifier.
+Spam SMS/Email classification pipeline using TF-IDF and Multinomial Naive Bayes for B.Y.T.E AVIP 2026. The classifier distinguishes legitimate messages (ham) from spam.
 
 ## Performance Metrics
 - **Accuracy:** ~98.2%
